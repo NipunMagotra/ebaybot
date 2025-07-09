@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/5ba9135d-597c-47c5-87e0-189d1b67aeff
 	ScreenShots
 </h1>
 <p align="center">
-	<img src="https://github.com/ShahrozAtiq/Ebay-Scraper/blob/b62dea6aaa564f1bd150a2f1f62f6295b482a9cc/Ebay_data.png">
-	<img src="https://github.com/ShahrozAtiq/Ebay-Scraper/blob/b62dea6aaa564f1bd150a2f1f62f6295b482a9cc/Ebay_.png">
+	<img src="https://github.com/nipun.magotra/Ebay-Scraper/blob/b62dea6aaa564f1bd150a2f1f62f6295b482a9cc/Ebay_data.png">
+	<img src="https://github.com/nipun.magotra/Ebay-Scraper/blob/b62dea6aaa564f1bd150a2f1f62f6295b482a9cc/Ebay_.png">
 </p>
 
 ## Discription
@@ -75,7 +75,7 @@ This bot automates the process of extracting comprehensive data from eBay based 
 Clone this repository :
 
 ```
-git clone https://github.com/ShahrozAtiq/Ebay-Scraper.git
+git clone https://github.com/nipun.magotra/Ebay-Scraper.git
 cd Ebay-Scraper
 ```
 
@@ -91,49 +91,18 @@ Contact me if you need a bot like this
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="https://www.fiverr.com/shahrozatiq" title="View my Fiverr profile">
+      <a href="https://www.fiverr.com/nipun.magotra" title="View my Fiverr profile">
         <img src="https://ml.globenewswire.com/Resource/Download/dcc91863-eeb0-4879-a556-9f7608b19744" alt="Fiverr Icon" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="mailto:shahrozatiq123@gmail.com" title="Send me an email">
+      <a href="mailto:nipun.magotra123@gmail.com" title="Send me an email">
         <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail Icon" height="60" width="60"/>
       </a>
     </td>
-    <td align="center" width="500px">
-      <a href="https://wa.me/923014317809" title="Chat with me on WhatsApp">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Icon" height="60" width="60"/>
-      </a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://linkedin.com/in/shahroz-atiq" title="Connect with me on LinkedIn">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="60" width="60"/>
-      </a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://instagram.com/shahahahahroz" title="Follow me on Instagram">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Icon" height="60" width="60"/>
-      </a>
-    </td>
+    
+  
+   
   </tr>
-  <tr>
-    <td align="center" width="500px">
-      <a href="https://www.upwork.com/freelancers/~01c437b099d917194b">Upwork</a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://www.fiverr.com/shahrozatiq">Fiverr</a>
-    </td>
-    <td align="center" width="500px">
-      <a href="mailto:shahrozatiq123@gmail.com">Gmail<br>shahrozatiq123@gmail.com</a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://wa.me/923014317809">WhatsApp<br>+923014317809</a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://linkedin.com/in/shahroz-atiq">LinkedIn</a>
-    </td>
-    <td align="center" width="500px">
-      <a href="https://instagram.com/shahahahahroz">Instagram</a>
-    </td>
-  </tr>
+
 </table>
